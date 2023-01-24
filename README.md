@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-araujo-b602041a2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jailton9040/)
 
-![Jailton GitHub stats](https://github-readme-stats.vercel.app/api?username=JailtonAraujo&show_icons=true&theme=dracula)
+<!-- ![Jailton GitHub stats](https://github-readme-stats.vercel.app/api?username=JailtonAraujo&show_icons=true&theme=dracula) -->
 
 ### Technologies I use.🖥️
 
