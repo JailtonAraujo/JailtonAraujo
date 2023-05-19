@@ -36,5 +36,5 @@
 ### Technologies I usually play with.🎮
 
 <div style="display: inline_block"><br/>
-   <img alt="Flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+   <img alt="React_Native"  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
