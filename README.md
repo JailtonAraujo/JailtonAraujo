@@ -1,4 +1,4 @@
-### Hi, I am Jailton Santos, i´m a Full-Stack Developer 👋✌️
+### Hi, I am Jailton Santos, i´m a Web Developer 👋✌️
 
 ## Come and meet me 👊
 
