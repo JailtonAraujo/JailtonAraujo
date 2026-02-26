@@ -10,7 +10,7 @@
 
 ### Technologies I use.🖥️
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,kotlin,nodejs&theme=light)](https://skillicons.dev)
 
 <!-- ### Technologies I usually play with.🎮
 
