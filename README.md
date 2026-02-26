@@ -1,6 +1,6 @@
-### Hi, I am Jailton Santos, i´m a Web Developer 👋✌️
+### I am Jailton Araujo
 
-## Come and meet me 👊
+## Come and meet me
 
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=portfolio&style=for-the-badge&url=https://jailtonaraujo.tech/portfolio)](https://jailtonaraujo.tech/portfolio)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-araujo-b602041a2/)
@@ -8,9 +8,12 @@
 
 <!-- ![Jailton GitHub stats](https://github-readme-stats.vercel.app/api?username=JailtonAraujo&show_icons=true&theme=dracula) -->
 
-### Technologies I use.🖥️
+### Technologies I use in back-end.
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,kotlin,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,kotlin,py,ts,nodejs,spring,hibernate,linux,maven,mongodb,nginx,postgres,mysql&theme=dark)](https://skillicons.dev)
+
+### Technologies I use in front-end.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,vite&theme=dark)](https://skillicons.dev)
 
 <!-- ### Technologies I usually play with.🎮
 
